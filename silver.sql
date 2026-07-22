@@ -27,4 +27,4 @@ WHERE d.country = 'Japan'
 
 -- COMMAND ----------
 
-SELECT * FROM silver.japan_bookings_2025
+SELECT * FROM silver.japan_bookings_2024
