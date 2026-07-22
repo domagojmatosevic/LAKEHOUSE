@@ -22,4 +22,4 @@ Contact me directly to get access to the dashboard on domagoj.matosevic1@gmail.c
 3. `notebooks/gold.sql`
 
 ## Architecture
-See `architecture/japan_architecture_plan.pdf`
+See `DomagojMatošević_ArchitectureDescription.pdf`
